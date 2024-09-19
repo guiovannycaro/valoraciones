@@ -1,0 +1,5 @@
+1|guiovanny|guiovanny Caro|guiovanny.Caro@outlook.com|1|123
+2|pepe|pedro|infante@gmail.com|2|456
+3|juan|avila|caicedo@gmail.com|1|123
+4|luis|luis|lopez@gcm.com|1|2020
+5|pedro|pedro|sanchez@il.com|1|3030

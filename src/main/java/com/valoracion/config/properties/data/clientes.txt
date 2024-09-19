@@ -1,0 +1,4 @@
+1|Juan Carlos|11/01/2017|juan@prueba.com
+2|2|Felipe|11/01/2017|felipe@prueba.com
+3|3|Sergio|11/01/2017|sergio@prueba.com
+4|1|pepito|11/01/2017|pepito@prueba.com

@@ -1,0 +1,3 @@
+1|Financieros|Transacciones Bancarias
+2|Compra|Compra en locales
+3|Premios|Ganacias de los clientes

@@ -1,0 +1,197 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+body{
+
+    background-position: left;
+    background-image: url('../imagenes/Dato.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat; 
+
+}
+
+#txto_tle{
+    text-align: left;
+    letter-spacing: 4px;
+    font-size: 1.4px;
+    color: #be5424;
+    font-weight: normal;
+    float: left;
+    width: 45%;
+    height: 44px;
+    z-index: 1;
+    position: absolute;
+}
+
+#Ingresar{
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 0px solid #000000;
+    cursor: pointer;
+    color:#ffffff;
+    font-size: 12px;
+    font-weight: bold;
+    background-color: #e7a61a;
+    height: 20px;
+}
+
+#Ingresar:hover{
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 0px solid #000000;
+    cursor: pointer;
+    color:#ffffff;
+    font-size: 12px;
+    font-weight: bold;
+    background-color: #f5b025;
+    height: 20px;
+}
+
+table{
+    width: 37%;
+    padding: 5%;
+    color:#c5e7e0;
+    align-content: center;
+    margin-top: 12%;
+}
+
+th{
+    text-align: left;
+    border-bottom: 1px solid;
+}
+
+td{
+    padding: 0%;
+}
+
+a:link{
+    color:#ffffff;  
+    font-weight: normal;
+    text-decoration: none;
+}
+a:link:hover{
+    color:#ffffff;  
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+
+#marcomenu{
+background-image: none;
+background-repeat: no-repeat;
+width: 74.2%;
+height: 100%;
+padding-bottom: 2.5%;
+position: relative;
+z-index: 222;
+float: right;
+display: block;
+margin-top: 0%;
+    
+}
+
+
+
+#regresarmen{
+   float: right;
+width: 9%;
+height: 17px;
+font-size: 14px;
+font-weight: bold;
+text-align: center;
+padding: 3px 8px;
+  color:#ffffff;
+background-color: #f5b025;
+cursor: pointer;
+border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+border: 0px solid #000000;
+  text-decoration: none;
+}
+
+#regresarmen:hover{
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 0px solid #000000;
+    cursor: pointer;
+    color:#ffffff;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #f5b025;
+    height: 17px;
+}
+#regresar{
+    float: left;
+    width: 10%;
+    height: 17px;
+     font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    padding: 3px 8px;
+    background-color: #f5b025;
+      cursor: pointer;
+        color:#ffffff;
+     border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 0px solid #000000;
+  text-decoration: none;
+}
+
+#regresarmen:hover{
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 0px solid #000000;
+    cursor: pointer;
+    color:#ffffff;
+    font-size: 14px;
+    text-align: center;
+    font-weight: bold;
+    background-color: #f5b025;
+    height: 17px;
+}
+
+
+.submit{
+    float: left;
+    width: 15%;
+height: 26px;
+     font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    padding: 3px 8px;
+    background-color: #f5b025;
+      cursor: pointer;
+        color:#ffffff;
+     border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 0px solid #000000;
+  text-decoration: none;
+  margin-right: 1%;
+margin-top: 1%;
+}
+
+.submit:hover{
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 0px solid #000000;
+    cursor: pointer;
+    color:#ffffff;
+    font-size: 11px;
+    text-align: center;
+    font-weight: bold;
+    background-color: #f5b025;
+    height: 26px;
+    margin-right: 1%;
+margin-top: 1%;
+}
