@@ -78,6 +78,11 @@ public class ClienteServlet extends HttpServlet {
 				response);
 
 	}
+	
+	
+	
+	
+	
 
 	private void regresar(HttpServletRequest request, HttpServletResponse response, int perfil) throws Exception {
 		valoracionesController misDatos = new valoracionesController();
